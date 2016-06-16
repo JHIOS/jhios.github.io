@@ -4,14 +4,14 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "彪悍的人生不需要打码"
+title: 编码人生
+subtitle: "彪悍的人生不需要编码"
 description: "蒋豪的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+keywords: 编码, jh653513754, iOS, 代码
 favicon: /favicon.ico
 timezone: Asia/BeiJing
 encoding: "utf-8"
-source_code: https://github.com/mzlogin/mzlogin.github.io
+source_code: https://github.com/jh653513754
 side_bar_repo_limit: 3
 
 
@@ -82,12 +82,12 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+github_username: jh653513754
+douban_username:
+facebook_username:
+weibo_username:
+zhihu_username:
+twitter_username:
 
 # ---------------- #
 #      Comments    #
@@ -103,5 +103,5 @@ disqus_username:
 #      Datas       #
 # ---------------- #
 skill_software_keywords: [Java, C++, Python, Design Patterns]
-skill_mobile_app_keywords: [Android, Reverse Engineering]
+skill_mobile_app_keywords: [iOS, Objective-C]
 skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
